@@ -47,7 +47,7 @@
 
 ### 🗄️ Database & Tools
 <p>
-  <img src="https://skillicons.dev/icons?i=mysql,vscode" alt="Database and Tools" />
+  <img src="https://skillicons.dev/icons?i=mysql,git,github,vscode" alt="Database and Tools" />
 </p>
 
 ---
