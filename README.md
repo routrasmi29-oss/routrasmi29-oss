@@ -32,7 +32,7 @@
 
 ### 💻 Programming Languages
 <p>
-  <img src="https://skillicons.dev/icons?i=python,php,js" alt="Programming Languages" />
+  <img src="https://skillicons.dev/icons?i=python,js" alt="Programming Languages" />
 </p>
 
 ### 🌐 Frontend Development
@@ -47,7 +47,7 @@
 
 ### 🗄️ Database & Tools
 <p>
-  <img src="https://skillicons.dev/icons?i=mysql,git,github,vscode" alt="Database and Tools" />
+  <img src="https://skillicons.dev/icons?i=mysql,vscode" alt="Database and Tools" />
 </p>
 
 ---
