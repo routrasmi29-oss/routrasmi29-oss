@@ -87,7 +87,7 @@ A Django-based e-commerce web application featuring product listings, shopping c
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=routrasmi29-oss&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="GitHub Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=routrasmi29-oss&theme=tokyonight" alt="GitHub Stats" />
 </p>
 
 <p align="center">
@@ -95,7 +95,7 @@ A Django-based e-commerce web application featuring product listings, shopping c
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=routrasmi29-oss&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="Most Used Languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=routrasmi29-oss&theme=tokyonight" alt="Most Used Languages" />
 </p>
 
 ---
