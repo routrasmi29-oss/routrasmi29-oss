@@ -1,134 +1,81 @@
+<!-- Header -->
 <h1 align="center">Hi 👋, I'm Rasmiranjan Rout</h1>
-
-<h3 align="center">🐍 Python & Django Developer | 🎓 MCA Student | 🚀 Aspiring Software Engineer</h3>
-
+<h3 align="center">
+  🎓 MCA Student | 🐍 Python & Django Developer | 🚀 Aspiring Software Engineer
+</h3>
 <p align="center">
   Passionate about programming, web development, and building useful applications.
 </p>
-
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Python+Developer;Django+Web+Developer;Full+Stack+Development;Always+Learning+New+Technologies" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Python+Developer;Django+Web+Developer;Full+Stack+Web+Development;Always+Learning+New+Technologies" alt="Typing SVG" />
 </p>
-
 ---
-
-## 👨‍💻 About Me
-
-- 🎓 Currently pursuing Master of Computer Applications (MCA).
-- 🐍 Interested in Python Programming and Django Development.
-- 🌐 Passionate about Web Development.
-- 💰 Developed Smart Expense Tracker System.
-- 🛒 Developed a Django-based Amazon Clone.
-- 📚 Always learning new technologies.
-- 🎯 Aspiring to become a skilled Software Engineer.
-
+👨‍💻 About Me
+🎓 Currently pursuing Master of Computer Applications (MCA).
+🐍 Interested in Python Programming and Django Development.
+🌐 Learning and building web applications.
+💰 Developed a Smart Expense Tracker System.
+🛒 Developed a Django-based Amazon Clone.
+📚 Always learning new technologies and improving my coding skills.
+🎯 Goal: To become a skilled Software Developer.
+🤝 Interested in collaborating on Python and open-source projects.
 ---
-
-## 🛠️ Technical Skills
-
-### Programming Languages
-
+🛠️ Technical Skills
+💻 Programming Languages
 <p>
-<img src="https://skillicons.dev/icons?i=python,js" />
+  <img src="https://skillicons.dev/icons?i=python,js" alt="Programming Languages" />
 </p>
-
-### Frontend Development
-
+🌐 Frontend Development
 <p>
-<img src="https://skillicons.dev/icons?i=html,css" />
+  <img src="https://skillicons.dev/icons?i=html,css,js" alt="Frontend Skills" />
 </p>
-
-### Backend Development
-
+⚙️ Backend Development
 <p>
-<img src="https://skillicons.dev/icons?i=django,php" />
+  <img src="https://skillicons.dev/icons?i=django,python,php" alt="Backend Skills" />
 </p>
-
-### Database & Tools
-
+🗄️ Database & Tools
 <p>
-<img src="https://skillicons.dev/icons?i=mysql,sqlite,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=mysql,git,github" alt="Database and Tools" />
+  <br/>
+  <img src="https://img.shields.io/badge/Editor-Notepad%2B%2B-90E59A?style=for-the-badge&logo=notepadplusplus&logoColor=black" alt="Notepad++" />
 </p>
-
-<p>
-<img src="https://img.shields.io/badge/Editor-Notepad%2B%2B-90E59A?style=for-the-badge&logo=notepadplusplus&logoColor=black" />
-</p>
-
 ---
-
-## 🚀 My Projects
-
-### 💰 1. Smart Expense Tracker System
-
-A web-based application designed to manage income, expenses, budgets, and savings efficiently.
-
-**Technologies:** HTML, CSS, JavaScript, PHP, MySQL.
-
-**Features:**
-- User Registration and Login
-- Income and Expense Management
-- Category-wise Budget Allocation
-- Savings Management
-- Daily, Monthly and Yearly Reports
-- Expense History
-
-🔗 [View Smart Expense Tracker Repository](https://github.com/routrasmi29-oss/Smart-Expense-Tracker-System)
-
+🚀 My Projects
+💰 Smart Expense Tracker System
+A web-based application designed to help users manage their income, expenses, budgets, and savings efficiently.
+Technologies: HTML, CSS, JavaScript, PHP, MySQL
+Code Editor: Notepad++
+🔗 View Smart Expense Tracker Repository
 ---
-
-### 🛒 2. Amazon Clone
-
-A Django-based e-commerce web application inspired by Amazon.
-
-**Technologies:** Python, Django, HTML, CSS, JavaScript, SQLite.
-
-**Features:**
-- User Registration and Login
-- Product Listing and Search
-- Shopping Cart Management
-- Wishlist
-- Order Management
-- Checkout and Payment Integration
-- User Profile Management
-
-🔗 [View Amazon Clone Repository](https://github.com/routrasmi29-oss/Amazon-Clone)
-
+🛒 Amazon Clone
+A Django-based e-commerce web application featuring product listings, shopping cart, user authentication, wishlist, order management, and online payment integration.
+Technologies: Python, Django, HTML, CSS, JavaScript, SQLite3
+Code Editor: VS Code
+🔗 View Amazon Clone Repository
 ---
-
-## 📊 GitHub Statistics
-
+📊 GitHub Statistics
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=routrasmi29-oss&show_icons=true&theme=tokyonight&hide_border=true" height="180" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=routrasmi29-oss&theme=tokyonight" alt="GitHub Stats" />
 </p>
-
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=routrasmi29-oss&theme=tokyonight&hide_border=true" height="180" />
+  <img src="https://streak-stats.demolab.com?user=routrasmi29-oss&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=routrasmi29-oss&layout=compact&theme=tokyonight&hide_border=true" height="180" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=routrasmi29-oss&theme=tokyonight" alt="Most Used Languages" />
 </p>
-
 ---
-
-## 🤝 Connect With Me
-
+🤝 Connect With Me
 <p align="center">
   <a href="https://github.com/routrasmi29-oss">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-
-  <a href="https://www.linkedin.com/in/rasmiranjan-rout-89b63326a/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-
-  <a href="mailto:routrasmi29@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+<a href="mailto:routrasmi29@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
-
 ---
-
-<h3 align="center">💙 Thanks for visiting my profile!</h3>
-
-<h4 align="center">⭐ Keep Learning | Keep Building | Keep Growing ⭐</h4>
+<p align="center">
+  💙 Thanks for visiting my profile!
+  <br/>
+  ⭐ Keep Learning | Keep Building | Keep Growing ⭐
+</p>
