@@ -1,3 +1,8 @@
+<!-- Developer Banner -->
+<p align="center">
+  <img src="YOUR_BANNER_IMAGE_URL" width="100%" alt="Rasmiranjan Rout Developer Banner">
+</p>
+
 <!-- Header -->
 <h1 align="center">Hi 👋, I'm Rasmiranjan Rout</h1>
 
